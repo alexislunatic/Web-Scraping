@@ -45,6 +45,7 @@ namespace LectorRSS
             }
 
             retStrin = strb.ToString();
+            Console.WriteLine(retStrin);
 
             return retStrin;
 
