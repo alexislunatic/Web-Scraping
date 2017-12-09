@@ -1,6 +1,9 @@
 # Web-Scraping
 Web Scraping con C# - RSS + HTML
 Librerias usadas:
--ScrapySharp
--HtmlAgilityPack
--FeedReader
+ScrapySharp
+HtmlAgilityPack
+FeedReader
+
+
+![alt tag](https://raw.githubusercontent.com/alexislunatic/Web-Scraping/master/01.%20LectorRSS/LectorRSS/vs.png)
