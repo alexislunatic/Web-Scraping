@@ -6,4 +6,4 @@ HtmlAgilityPack
 FeedReader
 
 
-![alt tag](https://raw.githubusercontent.com/alexislunatic/Web-Scraping/master/01.%20LectorRSS/LectorRSS/vs.png)
+![alt tag](https://raw.githubusercontent.com/alexislunatic/Web-Scraping/master/01.%20Lector%20RSS%20C%23/LectorRSS/vs.png)
